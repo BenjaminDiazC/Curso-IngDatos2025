@@ -1,7 +1,7 @@
 import operaciones
 
 def calculadora():
-    opcion = int(input("Ingresa una operación: \n1. suma \n2. resta \n3.multiplicación \n4.división"))
+    opcion = int(input("Ingresa solo el número asignado a una operación: \n1. suma \n2. resta \n3.multiplicación \n4.división"))
     a=int(input("Ingresa un número: "))
     b=int(input("Ingresa otro número: "))
 

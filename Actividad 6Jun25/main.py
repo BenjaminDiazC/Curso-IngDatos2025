@@ -7,19 +7,19 @@ def calculadora():
 
 
     if opcion ==1:
-        resultado = operaciones.sumar(a, b)
+        resultado = operaciones.sumar(a,b)
         print(f"El resultado es: {resultado}")
     elif opcion == 2:
-        resultado = operaciones.restar(a, b)
+        resultado = operaciones.restar(a,b)
         print(f"El resultado es: {resultado}")
     elif opcion == 3:
-        resultado = operaciones.multiplicar(a, b)
+        resultado = operaciones.multiplicar(a,b)
         print(f"El resultado es: {resultado}")
     elif opcion == 4:
         if b == 0:
             print("No se puede dividir por 0")
         else:
-            resultado = operaciones.dividir(a, b)
+            resultado = operaciones.dividir(a,b)
         print(f"El resultado es: {resultado}")
     else:
         print("opción inválida")

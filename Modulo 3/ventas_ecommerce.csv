@@ -1,0 +1,26 @@
+id_venta,fecha,producto,categoria,precio,cantidad,metodo_pago,cliente_id,cliente_nombre,cliente_email,ciudad,estado_orden,descuento
+1,2023-01-15,Smartphone Galaxy,Electrónicos,"1,200.50",1,tarjeta,101,Juan Pérez,juan.perez@email.com,Madrid,completado,0.1
+2,15/01/2023,Laptop Dell,Electrónicos,850.00,1,efectivo,102,María García,maria.garcia@email.com,Barcelona,pendiente,
+3,2023-01-16,Camiseta Nike,Ropa,$45.99,2,tarjeta,103,Carlos López,,Sevilla,completado,0.05
+4,2023-01-16,Camiseta Nike,Ropa,$45.99,2,tarjeta,103,Carlos López,,Sevilla,completado,0.05
+5,16-01-2023,Zapatillas Adidas,Ropa,120,1,paypal,104,Ana Martín,ana.martin@email.com,,enviado,
+6,,Auriculares Sony,Electrónicos,75.50,1,transferencia,105,Luis Rodríguez,luis.rodriguez@email.com,Valencia,completado,0.15
+7,2023-01-17,Libro Python,Libros,25.00,,tarjeta,106,Elena Fernández,elena.fernandez@email.com,Bilbao,cancelado,
+8,2023/01/18,Mochila Eastpak,Accesorios,65.00,1,efectvo,107,Diego Sánchez,diego.sanchez@email.com,Zaragoza,completado,0.08
+9,2023-01-18,Smartphone Galaxy,Electrónicos,"1,200.50",1,tarjeta,108,Carmen Ruiz,carmen.ruiz@email.com,Málaga,enviado,0.1
+10,2023-01-19,Reloj Casio,,89.99,1,tarjeta,109,Roberto Torres,roberto.torres@email.com,Murcia,completado,
+11,19/01/2023,Teclado Logitech,Electrónicos,45.00,2,paypal,,Pedro Jiménez,pedro.jimenez@email.com,Granada,pendiente,0.05
+12,2023-01-20,Pantalón Levi's,Ropa,80.00,1,tarjeta,111,Sofía Moreno,,Córdoba,completado,0.12
+13,2023-01-20,Mouse Gaming,Electrónicos,35.50,1,transferencia,112,Andrés Castillo,andres.castillo@email.com,Valladolid,enviado,
+14,,Perfume Chanel,Belleza,150.00,1,tarjeta,113,Isabel Guerrero,isabel.guerrero@email.com,Santander,completado,0.2
+15,2023-01-21,Tablet Samsung,Electrónicos,320.00,,paypal,114,Francisco Herrera,francisco.herrera@email.com,Pamplona,cancelado,0.1
+16,21-01-2023,Chaqueta North Face,Ropa,180.00,1,efectivo,115,Beatriz Vargas,beatriz.vargas@email.com,Toledo,completado,
+17,2023/01/22,Smartphone Galaxy,Electrónicos,"1,200.50",1,tarjeta,116,Javier Mendoza,,Badajoz,enviado,0.1
+18,2023-01-22,Cafetera Nespresso,Hogar,120.00,1,tarjeta,117,Patricia Romero,patricia.romero@email.com,Logroño,completado,0.15
+19,2023-01-23,Libro Python,Libros,25.00,3,efectvo,118,Miguel Delgado,miguel.delgado@email.com,Cáceres,pendiente,
+20,23/01/2023,Auriculares Sony,Electrónicos,75.50,1,transferencia,119,Lucía Morales,lucia.morales@email.com,Ávila,completado,0.15
+21,2023-01-23,Zapatillas Adidas,Ropa,120,1,paypal,120,Alberto Vega,,Salamanca,enviado,
+22,,Smartwatch Apple,Electrónicos,299.99,1,tarjeta,121,Cristina Jiménez,cristina.jimenez@email.com,Segovia,completado,0.08
+23,2023-01-24,Mochila Eastpak,Accesorios,65.00,1,efectivo,122,Raúl Peña,raul.pena@email.com,Cuenca,cancelado,0.08
+24,24-01-2023,Gafas Ray-Ban,Accesorios,180.00,,tarjeta,123,Nuria Santos,nuria.santos@email.com,Guadalajara,completado,0.1
+25,2023/01/25,Smartphone Galaxy,Electrónicos,"1,200.50",1,tarjeta,124,Óscar Rubio,,Albacete,enviado,0.1

@@ -1,0 +1,8 @@
+ID_Venta,Producto,Cantidad,Precio_Unitario,Fecha
+101,Teclado,10.0,50,2023-01-10
+102,Mouse,15.0,25,2023-01-11
+103,Monitor,5.0,300,2023-01-11
+104,Teclado,8.0,55,2023-01-12
+105,CPU,3.0,800,2023-01-13
+102,Mouse,15.0,25,2023-01-11
+106,Webcam,,120,2023-01-14

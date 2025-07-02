@@ -1,0 +1,6 @@
+ID Cliente,SKU,Nro Unidades,Venta Bruta,R_Este,R_Norte,R_Oeste,R_Sur
+102,B,5.0,200.5,False,False,False,True
+104,C,12.0,300.0,False,True,False,False
+105,B,5.0,210.5,False,False,True,False
+106,C,15.0,450.0,False,False,False,True
+109,C,9.0,250.0,False,False,True,False

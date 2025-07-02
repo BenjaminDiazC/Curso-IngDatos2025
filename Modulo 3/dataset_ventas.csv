@@ -1,0 +1,11 @@
+ID_Cliente,Region,Producto,Unidades,Precio_Total
+101,Norte,A,10.0,150.0
+102,Sur,B,5.0,200.5
+103,Este,A,8.0,120.0
+104,Norte,C,12.0,300.0
+105,Oeste,B,5.0,210.5
+101,Norte,A,10.0,150.0
+106,Sur,C,15.0,450.0
+107,Este,B,9.0,180.5
+108,,A,7.0,105.0
+109,Oeste,C,,250.0

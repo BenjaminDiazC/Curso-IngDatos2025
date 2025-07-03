@@ -1,0 +1,55 @@
+-- Creacion tabla empleados
+-- create
+CREATE TABLE empleados (
+  id INTEGER PRIMARY KEY,
+  nombre TEXT NOT NULL,
+  departamento TEXT NOT NULL
+);
+
+-- REALIZAR UNOS 3 INSERT - INSERCION DE REGISTROS DE PRUEBA
+INSERT INTO empleados VALUES (0001, 'Clark', 'Sales');
+INSERT INTO empleados VALUES (0002, 'Dave', 'Accounting');
+INSERT INTO empleados VALUES (0003, 'Ava', 'Sales');
+
+-- CONSULTA SIMPLE PARA OBTENER DATOS DE TABLA
+-- SELECT * FROM empleados WHERE departamento = 'Sales';
+
+
+
+EXPLAIN SELECT * FROM empleados WHERE departamento = 'Sales';
+
+
+
+-- ACTIVIDAD
+CREATE TABLE clientes (
+  id_cliente INT PRIMARY KEY,
+  nombre VARCHAR(100),
+  correo VARCHAR(100),
+);
+
+CREATE TABLE envios (
+  id_envio INT PRIMARY KEY,
+  id_cliente INT PRIMARY,
+  fecha_creacion DATE,
+  estado varchar(50),
+  destino varchar(100),
+  FOREIGN KEY (id_cliente) references clientes(id_cliente)
+);
+
+SELECT * FROM envios WHERE estado = 'entregado';
+
+SELECT * FROM envios WHERE YEAR(fecha_creacion) = 2024;
+
+SELECT e.id_envio, c.nombre
+FROM envios envios
+JOIN clientes c ON e.id_cliente = c.id_cliente;
+
+SELECT * FROM envios WHERE id_envio = 12345;
+
+SELECT id_envio, estado FROM envios;
+
+SELECT * FROM envios ORDER BY fecha_creacion DESC;
+
+SELECT * FROM envios envios
+JOIN clientes c ON e.id_cliente = c.id_cliente
+WHERE e.estado = 'Entregado';

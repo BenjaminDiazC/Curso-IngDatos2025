@@ -1,0 +1,51 @@
+﻿id_evento,línea,estación,tipo_incidente,duración_minutos,hora
+1,L2,Lo Prado,Falla eléctrica,15,11:45
+2,L5,Irarrázaval,Evacuación,15,20:00
+3,L4,San Pablo,Falla eléctrica,25,19:00
+4,L1,Lo Prado,Falla eléctrica,30,5:45
+5,L3,Irarrázaval,Falla eléctrica,20,8:00
+6,L2,Los Leones,Mantenimiento,30,17:00
+7,L3,Ñuñoa,Mantenimiento,5,12:30
+8,L1,Los Héroes,Falla eléctrica,30,8:30
+9,L3,Tobalaba,Evacuación,25,16:15
+10,L4A,Los Dominicos,Interrupción de servicio,30,16:45
+11,L2,Plaza Egaña,Evacuación,10,12:15
+12,L1,Cerrillos,Falla eléctrica,30,12:30
+13,L5,Los Héroes,Falla eléctrica,5,17:00
+14,L5,Pajaritos,Mantenimiento,15,13:30
+15,L4,Los Héroes,Evacuación,30,15:15
+16,L5,Baquedano,Mantenimiento,10,20:45
+17,L1,Vicente Valdés,Falla eléctrica,25,20:15
+18,L3,Irarrázaval,Evacuación,10,5:30
+19,L5,San Pablo,Falla eléctrica,10,17:30
+20,L5,Los Héroes,Interrupción de servicio,15,11:30
+21,L3,Santa Ana,Mantenimiento,15,10:15
+22,L4A,Baquedano,Interrupción de servicio,30,10:00
+23,L6,Los Dominicos,Interrupción de servicio,20,20:45
+24,L5,Pajaritos,Mantenimiento,5,9:15
+25,L2,Tobalaba,Falla eléctrica,5,23:15
+26,L5,Franklin,Interrupción de servicio,10,23:30
+27,L3,Santa Ana,Evacuación,20,14:00
+28,L5,Pajaritos,Falla eléctrica,20,6:00
+29,L4,Vicente Valdés,Retraso,20,5:15
+30,L4,Los Héroes,Interrupción de servicio,20,6:00
+31,L4A,Franklin,Mantenimiento,20,6:15
+32,L3,Plaza Egaña,Falla eléctrica,10,6:30
+33,L4A,Cerrillos,Mantenimiento,15,11:00
+34,L4A,Santa Ana,Evacuación,10,9:15
+35,L5,Los Héroes,Retraso,20,16:45
+36,L4A,Irarrázaval,Retraso,15,12:45
+37,L5,Vicente Valdés,Falla eléctrica,15,8:15
+38,L1,Baquedano,Interrupción de servicio,15,22:45
+39,L4A,Ñuñoa,Interrupción de servicio,25,15:00
+40,L5,Los Dominicos,Evacuación,5,18:45
+41,L5,Cerrillos,Mantenimiento,30,15:45
+42,L4,Puente Alto,Mantenimiento,10,13:30
+43,L2,Tobalaba,Interrupción de servicio,30,14:15
+44,L3,Plaza de Maipú,Retraso,25,11:45
+45,L4A,Plaza Egaña,Mantenimiento,10,10:15
+46,L1,Baquedano,Retraso,15,21:30
+47,L1,Baquedano,Mantenimiento,15,23:00
+48,L4A,Baquedano,Falla eléctrica,15,10:30
+49,L1,Lo Prado,Interrupción de servicio,20,22:15
+50,L3,Franklin,Interrupción de servicio,20,20:45

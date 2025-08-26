@@ -1,4 +1,4 @@
-﻿id_evento,línea,estación,tipo_incidente,duración_minutos,hora
+﻿id_evento,linea,estacion,tipo_incidente,duracion_minutos,hora
 1,L2,Lo Prado,Falla eléctrica,15,11:45
 2,L5,Irarrázaval,Evacuación,15,20:00
 3,L4,San Pablo,Falla eléctrica,25,19:00

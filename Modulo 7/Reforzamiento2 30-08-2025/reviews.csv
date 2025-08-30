@@ -1,0 +1,6 @@
+review_id,user,review_text,rating
+1,u01,"Excelente producto, muy recomendado",5
+2,u02,"Malo, se rompió a los dos días",1
+3,u03,Cumple con lo esperado,4
+4,u04,No me gustó la calidad del material,2
+5,u05,Precio justo y buena atención,5

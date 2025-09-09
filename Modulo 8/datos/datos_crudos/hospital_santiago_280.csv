@@ -1,0 +1,281 @@
+﻿paciente_id,nombre,apellido,edad,sexo,comuna,servicio_clinico,fecha_ingreso,diagnostico_principal,dias_hospitalizacion,costo_total,medico_tratante,estado_alta
+1,María,González,45,F,Santiago,Medicina Interna,2024-01-15,Hipertensión arterial,3,450000,Dr. Rodríguez,Alta médica
+2,Juan,Pérez,67,M,Providencia,Cardiología,2024-01-18,Infarto agudo miocardio,7,1200000,Dr. Silva,Alta médica
+3,Carmen,López,34,F,Las Condes,Ginecología,2024-01-20,Parto normal,2,350000,Dra. Morales,Alta médica
+4,Pedro,Martínez,78,M,Ñuñoa,Neurología,2024-01-22,Accidente cerebrovascular,12,2100000,Dr. Torres,Alta médica
+5,Ana,Jiménez,29,F,La Reina,Traumatología,2024-01-25,Fractura de tibia,5,800000,Dr. Vargas,Alta médica
+6,Luis,Hernández,52,M,Vitacura,Gastroenterología,2024-01-28,Úlcera péptica,4,600000,Dr. Castro,Alta médica
+7,Rosa,Díaz,41,F,Macul,Medicina Interna,2024-02-01,Diabetes mellitus,6,750000,Dr. Rodríguez,Alta médica
+8,Carlos,Ruiz,36,M,San Miguel,Traumatología,2024-02-03,Luxación de hombro,1,200000,Dr. Vargas,Alta médica
+9,Elena,Moreno,58,F,La Florida,Oncología,2024-02-05,Cáncer de mama,15,3500000,Dr. Mendoza,Alta médica
+10,Jorge,Sánchez,43,M,Peñalolén,Cardiología,2024-02-08,Arritmia cardíaca,8,950000,Dr. Silva,Alta médica
+11,Patricia,Vega,31,F,Lo Barnechea,Ginecología,2024-02-10,Cesárea,3,500000,Dra. Morales,Alta médica
+12,Roberto,Flores,65,M,Independencia,Neurología,2024-02-12,Parkinson,10,1300000,Dr. Torres,Alta médica
+13,Claudia,Castro,27,F,Renca,Medicina Interna,2024-02-15,Neumonía,5,550000,Dr. Rodríguez,Alta médica
+14,Miguel,Reyes,71,M,Cerro Navia,Urología,2024-02-18,Hiperplasia prostática,7,850000,Dr. Aguirre,Alta médica
+15,Gloria,Muñoz,39,F,Quilicura,Traumatología,2024-02-20,Esguince de tobillo,2,250000,Dr. Vargas,Alta médica
+16,Fernando,Silva,56,M,Huechuraba,Gastroenterología,2024-02-22,Gastritis crónica,3,400000,Dr. Castro,Alta médica
+17,Mónica,Parra,48,F,Conchalí,Dermatología,2024-02-25,Psoriasis,1,180000,Dra. Rojas,Alta médica
+18,Andrés,Torres,33,M,Recoleta,Medicina Interna,2024-02-28,Bronquitis aguda,4,480000,Dr. Rodríguez,Alta médica
+19,Beatriz,Herrera,62,F,Estación Central,Cardiología,2024-03-01,Insuficiencia cardíaca,11,1450000,Dr. Silva,Alta médica
+20,Daniel,Contreras,25,M,Maipu,Traumatología,2024-03-03,Fractura de radio,3,420000,Dr. Vargas,Alta médica
+21,Soledad,Ramírez,54,F,Cerrillos,Oncología,2024-03-05,Quimioterapia,8,2800000,Dr. Mendoza,Alta médica
+22,Raúl,Navarro,47,M,Pedro Aguirre Cerda,Medicina Interna,2024-03-08,Colecistitis,6,720000,Dr. Rodríguez,Alta médica
+23,Francisca,Guerrero,38,F,Lo Espejo,Ginecología,2024-03-10,Miomas uterinos,4,650000,Dra. Morales,Alta médica
+24,Rodrigo,Medina,59,M,San Joaquín,Neurología,2024-03-12,Epilepsia,9,980000,Dr. Torres,Alta médica
+25,Verónica,Rojas,44,F,La Cisterna,Medicina Interna,2024-03-15,Hipotiroidismo,2,280000,Dr. Rodríguez,Alta médica
+26,Patricio,Bustos,68,M,San Ramón,Cardiología,2024-03-18,Angina de pecho,5,680000,Dr. Silva,Alta médica
+27,Isabel,Campos,35,F,La Granja,Traumatología,2024-03-20,Tendinitis,1,150000,Dr. Vargas,Alta médica
+28,Gonzalo,Espinoza,72,M,El Bosque,Urología,2024-03-22,Cálculos renales,6,750000,Dr. Aguirre,Alta médica
+29,Lorena,Carrasco,28,F,La Pintana,Medicina Interna,2024-03-25,Anemia,3,350000,Dr. Rodríguez,Alta médica
+30,Sergio,Morales,51,M,Puente Alto,Gastroenterología,2024-03-28,Hepatitis,8,920000,Dr. Castro,Alta médica
+31,Alejandra,Tapia,46,F,Pirque,Dermatología,2024-04-01,Eczema,1,170000,Dra. Rojas,Alta médica
+32,Marcelo,Figueroa,37,M,San José de Maipo,Traumatología,2024-04-03,Contusión múltiple,2,300000,Dr. Vargas,Alta médica
+33,Carolina,Bravo,53,F,Buin,Oncología,2024-04-05,Cáncer colorrectal,18,4200000,Dr. Mendoza,Alta médica
+34,Hugo,Cortés,61,M,Paine,Cardiología,2024-04-08,Hipertensión pulmonar,7,890000,Dr. Silva,Alta médica
+35,Pamela,Ortega,32,F,Melipilla,Ginecología,2024-04-10,Endometriosis,5,580000,Dra. Morales,Alta médica
+36,Cristián,Romero,74,M,Talagante,Neurología,2024-04-12,Demencia senil,14,1680000,Dr. Torres,Alta médica
+37,Mariana,Soto,26,F,Peñaflor,Medicina Interna,2024-04-15,Faringitis,2,220000,Dr. Rodríguez,Alta médica
+38,Javier,Palma,49,M,Isla de Maipo,Traumatología,2024-04-18,Hernia discal,6,780000,Dr. Vargas,Alta médica
+39,Paulina,Miranda,55,F,El Monte,Gastroenterología,2024-04-20,Síndrome intestino irritable,4,450000,Dr. Castro,Alta médica
+40,Eduardo,León,66,M,Padre Hurtado,Urología,2024-04-22,Infección urinaria,3,380000,Dr. Aguirre,Alta médica
+41,Francisca,Peña,30,F,Curacaví,Medicina Interna,2024-04-25,Migraña,1,180000,Dr. Rodríguez,Alta médica
+42,Antonio,Valdés,58,M,María Pinto,Cardiología,2024-04-28,Fibrilación auricular,9,1150000,Dr. Silva,Alta médica
+43,Carla,Aguilar,42,F,Alhué,Dermatología,2024-05-01,Dermatitis atópica,1,160000,Dra. Rojas,Alta médica
+44,Manuel,Escobar,64,M,San Pedro,Medicina Interna,2024-05-03,Artritis reumatoide,7,820000,Dr. Rodríguez,Alta médica
+45,Viviana,Maldonado,50,F,Calera de Tango,Oncología,2024-05-05,Mastectomía,10,2650000,Dr. Mendoza,Alta médica
+46,Ricardo,Sandoval,45,M,Santiago,Traumatología,2024-05-08,Fractura de clavícula,4,520000,Dr. Vargas,Alta médica
+47,Eugenia,Varela,37,F,Providencia,Ginecología,2024-05-10,Quiste ovárico,3,480000,Dra. Morales,Alta médica
+48,Álvaro,Cáceres,69,M,Las Condes,Neurología,2024-05-12,Neuropatía diabética,8,950000,Dr. Torres,Alta médica
+49,Nadia,Ibarra,33,F,Ñuñoa,Medicina Interna,2024-05-15,Asma bronquial,2,280000,Dr. Rodríguez,Alta médica
+50,Óscar,Salinas,57,M,La Reina,Gastroenterología,2024-05-18,Reflujo gastroesofágico,5,620000,Dr. Castro,Alta médica
+51,Ingrid,Cornejo,41,F,Vitacura,Traumatología,2024-05-20,Bursitis,1,190000,Dr. Vargas,Alta médica
+52,Tomás,Gallegos,73,M,Macul,Urología,2024-05-22,Retención urinaria,4,480000,Dr. Aguirre,Alta médica
+53,Luz,Poblete,29,F,San Miguel,Medicina Interna,2024-05-25,Sinusitis,3,330000,Dr. Rodríguez,Alta médica
+54,Pablo,Aravena,52,M,La Florida,Cardiología,2024-05-28,Taquicardia,6,720000,Dr. Silva,Alta médica
+55,Ximena,Farías,39,F,Peñalolén,Dermatología,2024-06-01,Alopecia,2,240000,Dra. Rojas,Alta médica
+56,Ignacio,Urrutia,63,M,Lo Barnechea,Medicina Interna,2024-06-03,Gota,4,460000,Dr. Rodríguez,Alta médica
+57,Andrea,Loyola,48,F,Independencia,Oncología,2024-06-05,Radioterapia,12,3100000,Dr. Mendoza,Alta médica
+58,Guillermo,Zúñiga,34,M,Renca,Traumatología,2024-06-08,Luxación de codo,2,280000,Dr. Vargas,Alta médica
+59,Pilar,Arias,56,F,Cerro Navia,Gastroenterología,2024-06-10,Pancreatitis,9,1080000,Dr. Castro,Alta médica
+60,Esteban,Molina,71,M,Quilicura,Neurología,2024-06-12,Parálisis facial,7,850000,Dr. Torres,Alta médica
+61,Macarena,Godoy,27,F,Huechuraba,Medicina Interna,2024-06-15,Cistitis,2,240000,Dr. Rodríguez,Alta médica
+62,Nelson,Henriquez,46,M,Conchalí,Cardiología,2024-06-18,Soplo cardíaco,5,580000,Dr. Silva,Alta médica
+63,Alejandra,Muñoz,38,F,Recoleta,Ginecología,2024-06-20,Displasia cervical,3,420000,Dra. Morales,Alta médica
+64,Fernando,Briceño,65,M,Estación Central,Urología,2024-06-22,Cáncer de próstata,11,2200000,Dr. Aguirre,Alta médica
+65,Constanza,Pizarro,31,F,Maipu,Medicina Interna,2024-06-25,Fibromialgia,4,480000,Dr. Rodríguez,Alta médica
+66,Rodrigo,Garrido,54,M,Cerrillos,Traumatología,2024-06-28,Artroscopia rodilla,3,650000,Dr. Vargas,Alta médica
+67,Daniela,Vera,43,F,Pedro Aguirre Cerda,Dermatología,2024-07-01,Vitiligo,1,150000,Dra. Rojas,Alta médica
+68,Mauricio,Núñez,59,M,Lo Espejo,Medicina Interna,2024-07-03,Osteoporosis,6,690000,Dr. Rodríguez,Alta médica
+69,Silvia,Riquelme,47,F,San Joaquín,Oncología,2024-07-05,Linfoma,16,3800000,Dr. Mendoza,Alta médica
+70,Claudio,Paredes,36,M,La Cisterna,Gastroenterología,2024-07-08,Enfermedad de Crohn,8,940000,Dr. Castro,Alta médica
+71,Gabriela,Sepúlveda,52,F,San Ramón,Cardiología,2024-07-10,Valvulopatía,7,820000,Dr. Silva,Alta médica
+72,Hernán,Villalobos,67,M,La Granja,Neurología,2024-07-12,Esclerosis múltiple,10,1200000,Dr. Torres,Alta médica
+73,Loreto,Carrasco,28,F,El Bosque,Medicina Interna,2024-07-15,Conjuntivitis,1,120000,Dr. Rodríguez,Alta médica
+74,Iván,Acevedo,44,M,La Pintana,Traumatología,2024-07-18,Rotura menisco,5,780000,Dr. Vargas,Alta médica
+75,Bárbara,Leiva,35,F,Puente Alto,Ginecología,2024-07-20,Infección vaginal,2,280000,Dra. Morales,Alta médica
+76,Mario,Cisternas,58,M,Pirque,Urología,2024-07-22,Varicocele,4,520000,Dr. Aguirre,Alta médica
+77,Carolina,Araya,49,F,San José de Maipo,Medicina Interna,2024-07-25,Lupus eritematoso,9,1080000,Dr. Rodríguez,Alta médica
+78,Jorge,Marchant,61,M,Buin,Cardiología,2024-07-28,Bypass coronario,14,4500000,Dr. Silva,Alta médica
+79,Mónica,Ulloa,33,F,Paine,Dermatología,2024-07-30,Melanoma,6,1200000,Dra. Rojas,Fallecido
+80,Felipe,Espejo,70,M,Melipilla,Medicina Interna,2024-08-01,Insuficiencia renal,13,2800000,Dr. Rodríguez,Alta médica
+81,Carmen,Benítez,42,F,Santiago,Cardiología,2024-08-03,Pericarditis,5,650000,Dr. Silva,Alta médica
+82,Gonzalo,Moreno,55,M,Providencia,Gastroenterología,2024-08-05,Cirrosis hepática,11,1850000,Dr. Castro,Alta médica
+83,Patricia,Lagos,29,F,Las Condes,Traumatología,2024-08-08,Fractura de muñeca,3,420000,Dr. Vargas,Alta médica
+84,Rodrigo,Santander,67,M,Ñuñoa,Oncología,2024-08-10,Cáncer de pulmón,19,4800000,Dr. Mendoza,Alta médica
+85,Alejandra,Pereira,38,F,La Reina,Medicina Interna,2024-08-12,Obesidad mórbida,7,890000,Dr. Rodríguez,Alta médica
+86,Carlos,Mendoza,51,M,Vitacura,Neurología,2024-08-15,Cefalea tensional,2,280000,Dr. Torres,Alta médica
+87,Isabel,Ramos,46,F,Macul,Dermatología,2024-08-17,Herpes zóster,4,480000,Dra. Rojas,Alta médica
+88,Eduardo,Fuentes,63,M,San Miguel,Urología,2024-08-19,Cistitis intersticial,6,720000,Dr. Aguirre,Alta médica
+89,Mónica,Cortez,35,F,La Florida,Ginecología,2024-08-22,Embarazo ectópico,1,980000,Dra. Morales,Alta médica
+90,Manuel,Vásquez,58,M,Peñalolén,Medicina Interna,2024-08-24,Enfisema pulmonar,9,1150000,Dr. Rodríguez,Alta médica
+91,Andrea,Salazar,31,F,Lo Barnechea,Traumatología,2024-08-26,Síndrome túnel carpiano,2,350000,Dr. Vargas,Alta médica
+92,Pablo,Miranda,72,M,Independencia,Cardiología,2024-08-28,Marcapasos,8,2200000,Dr. Silva,Alta médica
+93,Francisca,Torres,27,F,Renca,Medicina Interna,2024-08-30,Mononucleosis,4,450000,Dr. Rodríguez,Alta médica
+94,Sergio,Valenzuela,49,M,Cerro Navia,Gastroenterología,2024-09-01,Colitis ulcerosa,10,1250000,Dr. Castro,Alta médica
+95,Gloria,Herrera,54,F,Quilicura,Oncología,2024-09-03,Cáncer gástrico,21,5200000,Dr. Mendoza,Alta médica
+96,Ricardo,Espinoza,41,M,Huechuraba,Traumatología,2024-09-05,Ruptura ligamento,7,890000,Dr. Vargas,Alta médica
+97,Paulina,Gutiérrez,36,F,Conchalí,Neurología,2024-09-08,Migraña crónica,3,420000,Dr. Torres,Alta médica
+98,Fernando,Castro,69,M,Recoleta,Urología,2024-09-10,Incontinencia urinaria,5,580000,Dr. Aguirre,Alta médica
+99,Carla,Morales,33,F,Estación Central,Dermatología,2024-09-12,Cáncer de piel,8,1650000,Dra. Rojas,Alta médica
+100,Ignacio,Rojas,56,M,Maipu,Medicina Interna,2024-09-15,Síndrome metabólico,6,720000,Dr. Rodríguez,Alta médica
+101,Carolina,Vargas,43,F,Cerrillos,Ginecología,2024-09-17,Histerectomía,4,850000,Dra. Morales,Alta médica
+102,Álvaro,Mendez,62,M,Pedro Aguirre Cerda,Cardiología,2024-09-19,Aneurisma aórtico,12,3200000,Dr. Silva,Alta médica
+103,Verónica,Jiménez,28,F,Lo Espejo,Medicina Interna,2024-09-22,Anorexia nerviosa,15,1800000,Dr. Rodríguez,Alta médica
+104,Tomás,Carrillo,47,M,San Joaquín,Traumatología,2024-09-24,Prótesis de cadera,9,2500000,Dr. Vargas,Alta médica
+105,Soledad,Pérez,39,F,La Cisterna,Gastroenterología,2024-09-26,Diverticulitis,7,850000,Dr. Castro,Alta médica
+106,Diego,Fernández,71,M,San Ramón,Neurología,2024-09-28,Alzheimer inicial,8,950000,Dr. Torres,Alta médica
+107,Natalia,Silva,32,F,La Granja,Medicina Interna,2024-09-30,Lupus eritematoso,11,1350000,Dr. Rodríguez,Alta médica
+108,Raúl,Guerrero,58,M,El Bosque,Oncología,2024-10-02,Leucemia,18,4500000,Dr. Mendoza,Alta médica
+109,Macarena,Soto,26,F,La Pintana,Dermatología,2024-10-04,Acné severo,3,380000,Dra. Rojas,Alta médica
+110,Hugo,Contreras,64,M,Puente Alto,Urología,2024-10-06,Cálculos vesicales,5,680000,Dr. Aguirre,Alta médica
+111,Lorena,Bravo,45,F,Pirque,Traumatología,2024-10-08,Artritis reumatoide,6,750000,Dr. Vargas,Alta médica
+112,Cristian,Núñez,37,M,San José de Maipo,Cardiología,2024-10-10,Endocarditis,13,2800000,Dr. Silva,Alta médica
+113,Daniela,Olivares,50,F,Buin,Medicina Interna,2024-10-12,Síndrome fatiga crónica,4,480000,Dr. Rodríguez,Alta médica
+114,Mario,Tapia,66,M,Paine,Gastroenterología,2024-10-15,Úlcera duodenal,8,920000,Dr. Castro,Alta médica
+115,Pilar,Campos,31,F,Melipilla,Ginecología,2024-10-17,Infertilidad,2,450000,Dra. Morales,Alta médica
+116,Gonzalo,Aguilera,53,M,Talagante,Neurología,2024-10-19,Neuropatía periférica,7,820000,Dr. Torres,Alta médica
+117,Alejandra,Muñoz,41,F,Peñaflor,Traumatología,2024-10-21,Lesión deportiva,3,420000,Dr. Vargas,Alta médica
+118,Nelson,Romero,59,M,Isla de Maipo,Medicina Interna,2024-10-23,Hipertiroidismo,5,580000,Dr. Rodríguez,Alta médica
+119,Constanza,Arias,34,F,El Monte,Oncología,2024-10-25,Cáncer cervical,14,3800000,Dr. Mendoza,Alta médica
+120,Felipe,Donoso,68,M,Padre Hurtado,Cardiología,2024-10-27,Insuficiencia mitral,9,1850000,Dr. Silva,Alta médica
+121,Bárbara,León,29,F,Curacaví,Dermatología,2024-10-30,Rosácea,2,320000,Dra. Rojas,Alta médica
+122,Mauricio,Santander,46,M,María Pinto,Urología,2024-11-01,Prostatitis,4,520000,Dr. Aguirre,Alta médica
+123,Gloria,Vera,52,F,Alhué,Medicina Interna,2024-11-03,Artritis psoriásica,10,1180000,Dr. Rodríguez,Alta médica
+124,Jorge,Cáceres,38,M,San Pedro,Traumatología,2024-11-05,Fractura de costilla,6,680000,Dr. Vargas,Alta médica
+125,Patricia,Escobar,63,F,Calera de Tango,Gastroenterología,2024-11-07,Síndrome colon irritable,5,620000,Dr. Castro,Alta médica
+126,Ricardo,Maldonado,44,M,Santiago,Neurología,2024-11-09,Esclerosis lateral,16,3500000,Dr. Torres,Fallecido
+127,Carla,Sandoval,35,F,Providencia,Ginecología,2024-11-11,Endometriosis severa,7,980000,Dra. Morales,Alta médica
+128,Esteban,Varela,57,M,Las Condes,Medicina Interna,2024-11-13,Síndrome apnea sueño,3,420000,Dr. Rodríguez,Alta médica
+129,Ximena,Ibarra,48,F,Ñuñoa,Cardiología,2024-11-15,Miocardiopatía,11,2350000,Dr. Silva,Alta médica
+130,Rodrigo,Salinas,65,M,La Reina,Oncología,2024-11-17,Cáncer pancreático,22,6800000,Dr. Mendoza,Fallecido
+131,Andrea,Cornejo,32,F,Vitacura,Traumatología,2024-11-19,Desgarro muscular,4,480000,Dr. Vargas,Alta médica
+132,Pablo,Gallegos,71,M,Macul,Urología,2024-11-21,Tumor renal,8,1650000,Dr. Aguirre,Alta médica
+133,Luz,Aravena,27,F,San Miguel,Medicina Interna,2024-11-23,Síndrome ovario poliquístico,6,720000,Dr. Rodríguez,Alta médica
+134,Claudio,Farías,54,M,La Florida,Gastroenterología,2024-11-25,Enfermedad celíaca,9,1080000,Dr. Castro,Alta médica
+135,Ingrid,Urrutia,42,F,Peñalolén,Dermatología,2024-11-27,Lupus cutáneo,5,650000,Dra. Rojas,Alta médica
+136,Tomás,Loyola,49,M,Lo Barnechea,Cardiología,2024-11-29,Tromboembolia pulmonar,14,3200000,Dr. Silva,Alta médica
+137,Macarena,Zúñiga,36,F,Independencia,Medicina Interna,2024-12-01,Fibromialgia severa,8,950000,Dr. Rodríguez,Alta médica
+138,Fernando,Molina,62,M,Renca,Neurología,2024-12-03,Parkinson avanzado,12,2800000,Dr. Torres,Alta médica
+139,Carolina,Godoy,33,F,Cerro Navia,Traumatología,2024-12-05,Escoliosis severa,10,2200000,Dr. Vargas,Alta médica
+140,Álvaro,Henriquez,58,M,Quilicura,Oncología,2024-12-07,Sarcoma,20,5500000,Dr. Mendoza,Alta médica
+141,Daniela,Briceño,41,F,Huechuraba,Ginecología,2024-12-09,Cáncer ovario,15,4200000,Dra. Morales,Alta médica
+142,Manuel,Pizarro,67,M,Conchalí,Medicina Interna,2024-12-11,Insuficiencia cardíaca,13,2650000,Dr. Rodríguez,Fallecido
+143,Soledad,Garrido,28,F,Recoleta,Dermatología,2024-12-13,Psoriasis severa,4,520000,Dra. Rojas,Alta médica
+144,Diego,Núñez,55,M,Estación Central,Urología,2024-12-15,Hiperplasia benigna,6,780000,Dr. Aguirre,Alta médica
+145,Patricia,Riquelme,39,F,Maipu,Cardiología,2024-12-17,Arritmia ventricular,9,1450000,Dr. Silva,Alta médica
+146,Carlos,Paredes,46,M,Cerrillos,Traumatología,2024-12-19,Hernias discales múltiples,11,2350000,Dr. Vargas,Alta médica
+147,Mónica,Sepúlveda,31,F,Pedro Aguirre Cerda,Medicina Interna,2024-12-21,Colitis ulcerativa,7,850000,Dr. Rodríguez,Alta médica
+148,Roberto,Villalobos,64,M,Lo Espejo,Gastroenterología,2024-12-23,Cáncer hepático,16,4800000,Dr. Castro,Fallecido
+149,Francisca,Acevedo,37,F,San Joaquín,Neurología,2024-12-25,Migraña con aura,3,420000,Dr. Torres,Alta médica
+150,Ignacio,Leiva,72,M,La Cisterna,Oncología,2024-12-27,Mieloma múltiple,19,5200000,Dr. Mendoza,Alta médica
+151,Verónica,Cisternas,29,F,San Ramón,Dermatología,2024-12-29,Melanoma maligno,8,2800000,Dra. Rojas,Alta médica
+152,Sergio,Araya,51,M,La Granja,Medicina Interna,2024-12-31,Diabetes tipo 1,5,650000,Dr. Rodríguez,Alta médica
+153,Carmen,Marchant,43,F,El Bosque,Ginecología,2025-01-02,Miomas múltiples,6,820000,Dra. Morales,Alta médica
+154,Gonzalo,Ulloa,59,M,La Pintana,Cardiología,2025-01-04,Bypass triple,15,4500000,Dr. Silva,Alta médica
+155,Alejandra,Espejo,34,F,Puente Alto,Traumatología,2025-01-06,Fractura vertebral,12,2650000,Dr. Vargas,Alta médica
+156,Eduardo,Benítez,68,M,Pirque,Urología,2025-01-08,Cáncer vesical,10,2200000,Dr. Aguirre,Alta médica
+157,Gloria,Lagos,45,F,San José de Maipo,Medicina Interna,2025-01-10,Enfermedad de Graves,4,520000,Dr. Rodríguez,Alta médica
+158,Mario,Pereira,37,M,Buin,Neurología,2025-01-12,Epilepsia refractaria,14,3200000,Dr. Torres,Alta médica
+159,Patricia,Fuentes,52,F,Paine,Gastroenterología,2025-01-14,Enfermedad de Crohn,9,1350000,Dr. Castro,Alta médica
+160,Ricardo,Cortez,26,M,Melipilla,Traumatología,2025-01-16,Lesión medular,18,5500000,Dr. Vargas,Alta médica
+161,Carla,Vásquez,48,F,Talagante,Oncología,2025-01-18,Cáncer de tiroides,7,1850000,Dr. Mendoza,Alta médica
+162,Fernando,Salazar,61,M,Peñaflor,Medicina Interna,2025-01-20,Cirrosis biliar,11,2350000,Dr. Rodríguez,Alta médica
+163,Daniela,Torres,33,F,Isla de Maipo,Dermatología,2025-01-22,Esclerodermia,6,980000,Dra. Rojas,Alta médica
+164,Pablo,Valenzuela,56,M,El Monte,Cardiología,2025-01-24,Cardiomiopatía,13,3500000,Dr. Silva,Alta médica
+165,Andrea,Gutiérrez,41,F,Padre Hurtado,Ginecología,2025-01-26,Cáncer endometrial,8,2200000,Dra. Morales,Alta médica
+166,Carlos,Morales,47,M,Curacaví,Neurología,2025-01-28,Huntington,16,4200000,Dr. Torres,Fallecido
+167,Isabel,Mendez,35,F,María Pinto,Medicina Interna,2025-01-30,Síndrome de Sjögren,5,720000,Dr. Rodríguez,Alta médica
+168,Rodrigo,Jiménez,63,M,Alhué,Urología,2025-02-01,Tumor prostático,9,1650000,Dr. Aguirre,Alta médica
+169,Paulina,Carrillo,28,F,San Pedro,Traumatología,2025-02-03,Ruptura tendón Aquiles,7,1080000,Dr. Vargas,Alta médica
+170,Manuel,Fernández,54,M,Calera de Tango,Gastroenterología,2025-02-05,Poliposis familiar,10,2500000,Dr. Castro,Alta médica
+171,Soledad,Guerrero,42,F,Santiago,Cardiología,2025-02-07,Valvulopatía múltiple,12,3200000,Dr. Silva,Alta médica
+172,Diego,Núñez,38,M,Providencia,Medicina Interna,2025-02-09,Vasculitis sistémica,8,1450000,Dr. Rodríguez,Alta médica
+173,Carolina,Olivares,49,F,Las Condes,Oncología,2025-02-11,Linfoma no Hodgkin,17,4800000,Dr. Mendoza,Alta médica
+174,Jorge,Tapia,66,M,Ñuñoa,Neurología,2025-02-13,Atrofia muscular,11,2650000,Dr. Torres,Alta médica
+175,Mónica,Campos,31,F,La Reina,Dermatología,2025-02-15,Pénfigo vulgar,9,1850000,Dra. Rojas,Alta médica
+176,Esteban,Aguilera,57,M,Vitacura,Traumatología,2025-02-17,Prótesis de rodilla,5,1200000,Dr. Vargas,Alta médica
+177,Gloria,Romero,44,F,Macul,Ginecología,2025-02-19,Prolapso uterino,4,680000,Dra. Morales,Alta médica
+178,Raúl,Donoso,73,M,San Miguel,Medicina Interna,2025-02-21,Insuficiencia renal crónica,14,3800000,Dr. Rodríguez,Fallecido
+179,Patricia,León,36,F,La Florida,Cardiología,2025-02-23,Comunicación interventricular,10,2800000,Dr. Silva,Alta médica
+180,Álvaro,Santander,52,M,Peñalolén,Urología,2025-02-25,Estenosis uretral,6,920000,Dr. Aguirre,Alta médica
+181,Carmen,Vera,29,F,Lo Barnechea,Medicina Interna,2025-02-27,Púrpura trombocitopénica,7,1080000,Dr. Rodríguez,Alta médica
+182,Felipe,Cáceres,48,M,Independencia,Gastroenterología,2025-03-01,Carcinoma hepatocelular,15,4500000,Dr. Castro,Fallecido
+183,Daniela,Escobar,33,F,Renca,Traumatología,2025-03-03,Síndrome compartimental,8,1650000,Dr. Vargas,Alta médica
+184,Mario,Maldonado,59,M,Cerro Navia,Neurología,2025-03-05,Mielitis transversa,12,3200000,Dr. Torres,Alta médica
+185,Andrea,Sandoval,41,F,Quilicura,Dermatología,2025-03-07,Lupus eritematoso cutáneo,5,780000,Dra. Rojas,Alta médica
+186,Carlos,Varela,64,M,Huechuraba,Cardiología,2025-03-09,Tetralogía de Fallot,16,5200000,Dr. Silva,Alta médica
+187,Francisca,Ibarra,27,F,Conchalí,Medicina Interna,2025-03-11,Síndrome antifosfolípido,9,1450000,Dr. Rodríguez,Alta médica
+188,Ricardo,Salinas,55,M,Recoleta,Oncología,2025-03-13,Tumor cerebral,20,6500000,Dr. Mendoza,Fallecido
+189,Verónica,Cornejo,37,F,Estación Central,Ginecología,2025-03-15,Embarazo molar,3,850000,Dra. Morales,Alta médica
+190,Gonzalo,Gallegos,46,M,Maipu,Traumatología,2025-03-17,Amputación traumática,21,7200000,Dr. Vargas,Alta médica
+191,Patricia,Aravena,58,F,Cerrillos,Medicina Interna,2025-03-19,Esclerosis sistémica,10,2200000,Dr. Rodríguez,Alta médica
+192,Eduardo,Farías,32,M,Pedro Aguirre Cerda,Urología,2025-03-21,Tumor testicular,7,1350000,Dr. Aguirre,Alta médica
+193,Carmen,Urrutia,49,F,Lo Espejo,Gastroenterología,2025-03-23,Cirrosis alcohólica,13,3500000,Dr. Castro,Fallecido
+194,Pablo,Loyola,71,M,San Joaquín,Cardiología,2025-03-25,Aneurisma cerebral,11,3200000,Dr. Silva,Alta médica
+195,Mónica,Zúñiga,34,F,La Cisterna,Neurología,2025-03-27,Miastenia gravis,8,1650000,Dr. Torres,Alta médica
+196,Fernando,Molina,62,M,San Ramón,Medicina Interna,2025-03-29,Amiloidosis,12,2800000,Dr. Rodríguez,Alta médica
+197,Gloria,Godoy,38,F,La Granja,Dermatología,2025-03-31,Dermatomiositis,6,980000,Dra. Rojas,Alta médica
+198,Carlos,Henriquez,56,M,El Bosque,Oncología,2025-04-02,Cáncer de esófago,18,5500000,Dr. Mendoza,Fallecido
+199,Alejandra,Briceño,43,F,La Pintana,Traumatología,2025-04-04,Fractura patológica,9,1850000,Dr. Vargas,Alta médica
+200,Mario,Pizarro,67,M,Puente Alto,Medicina Interna,2025-04-06,Síndrome nefrótico,11,2350000,Dr. Rodríguez,Alta médica
+201,Carla,Garrido,35,F,Pirque,Ginecología,2025-04-08,Síndrome ovario poliquístico,4,620000,Dra. Morales,Alta médica
+202,Rodrigo,Riquelme,54,M,San José de Maipo,Cardiología,2025-04-10,Coartación aórtica,14,4200000,Dr. Silva,Alta médica
+203,Patricia,Núñez,29,F,Buin,Medicina Interna,2025-04-12,Enfermedad de Wilson,7,1080000,Dr. Rodríguez,Alta médica
+204,Eduardo,Paredes,48,M,Paine,Neurología,2025-04-14,Distrofia muscular,15,3800000,Dr. Torres,Alta médica
+205,Daniela,Sepúlveda,41,F,Melipilla,Urología,2025-04-16,Nefritis lúpica,10,2200000,Dr. Aguirre,Alta médica
+206,Felipe,Villalobos,63,M,Talagante,Gastroenterología,2025-04-18,Tumor pancreático,16,4800000,Dr. Castro,Fallecido
+207,Andrea,Acevedo,31,F,Peñaflor,Traumatología,2025-04-20,Osteosarcoma,19,5800000,Dr. Vargas,Alta médica
+208,Carlos,Leiva,57,M,Isla de Maipo,Medicina Interna,2025-04-22,Polimialgia reumática,6,850000,Dr. Rodríguez,Alta médica
+209,Gloria,Cisternas,42,F,El Monte,Dermatología,2025-04-24,Epidermólisis bullosa,8,1650000,Dra. Rojas,Alta médica
+210,Mario,Araya,69,M,Padre Hurtado,Cardiología,2025-04-26,Estenosis aórtica,12,3500000,Dr. Silva,Alta médica
+211,Francisca,Marchant,26,F,Curacaví,Medicina Interna,2025-04-28,Síndrome de Turner,5,720000,Dr. Rodríguez,Alta médica
+212,Sergio,Ulloa,53,M,María Pinto,Oncología,2025-04-30,Cáncer renal,17,4500000,Dr. Mendoza,Alta médica
+213,Carmen,Espejo,39,F,Alhué,Neurología,2025-05-02,Corea de Huntington,13,3200000,Dr. Torres,Fallecido
+214,Pablo,Benítez,46,M,San Pedro,Traumatología,2025-05-04,Síndrome de aplastamiento,11,2650000,Dr. Vargas,Alta médica
+215,Verónica,Lagos,33,F,Calera de Tango,Ginecología,2025-05-06,Adenomiosis,7,1080000,Dra. Morales,Alta médica
+216,Fernando,Pereira,58,M,Santiago,Medicina Interna,2025-05-08,Hepatitis autoinmune,9,1450000,Dr. Rodríguez,Alta médica
+217,Patricia,Fuentes,44,F,Providencia,Urología,2025-05-10,Cistitis hemorrágica,4,580000,Dr. Aguirre,Alta médica
+218,Ricardo,Cortez,61,M,Las Condes,Gastroenterología,2025-05-12,Colangiocarcinoma,14,4200000,Dr. Castro,Fallecido
+219,Mónica,Vásquez,36,F,Ñuñoa,Cardiología,2025-05-14,Miocarditis viral,8,1650000,Dr. Silva,Alta médica
+220,Eduardo,Salazar,72,M,La Reina,Neurología,2025-05-16,Demencia frontotemporal,16,4800000,Dr. Torres,Fallecido
+221,Carmen,Torres,28,F,Vitacura,Dermatología,2025-05-18,Ictiosis,3,450000,Dra. Rojas,Alta médica
+222,Diego,Valenzuela,51,M,Macul,Medicina Interna,2025-05-20,Síndrome de Cushing,10,2200000,Dr. Rodríguez,Alta médica
+223,Andrea,Gutiérrez,45,F,San Miguel,Traumatología,2025-05-22,Necrosis avascular,12,2800000,Dr. Vargas,Alta médica
+224,Carlos,Morales,38,M,La Florida,Oncología,2025-05-24,Tumor espinal,15,4500000,Dr. Mendoza,Alta médica
+225,Gloria,Mendez,52,F,Peñalolén,Medicina Interna,2025-05-26,Púrpura de Henoch,6,850000,Dr. Rodríguez,Alta médica
+226,Mario,Jiménez,67,M,Lo Barnechea,Cardiología,2025-05-28,Insuficiencia tricúspide,11,2650000,Dr. Silva,Alta médica
+227,Francisca,Carrillo,31,F,Independencia,Ginecología,2025-05-30,Síndrome de ovario resistente,5,720000,Dra. Morales,Alta médica
+228,Rodrigo,Fernández,49,M,Renca,Urología,2025-06-01,Pionefrosis,8,1350000,Dr. Aguirre,Alta médica
+229,Patricia,Guerrero,42,F,Cerro Navia,Neurología,2025-06-03,Síndrome de Guillain-Barré,14,3500000,Dr. Torres,Alta médica
+230,Eduardo,Núñez,56,M,Quilicura,Medicina Interna,2025-06-05,Sarcoidosis,7,1080000,Dr. Rodríguez,Alta médica
+231,Daniela,Olivares,33,F,Huechuraba,Gastroenterología,2025-06-07,Acalasia,9,1650000,Dr. Castro,Alta médica
+232,Felipe,Tapia,64,M,Conchalí,Traumatología,2025-06-09,Osteomielitis,13,3200000,Dr. Vargas,Alta médica
+233,Carmen,Campos,47,F,Recoleta,Dermatología,2025-06-11,Pemfigoide,6,980000,Dra. Rojas,Alta médica
+234,Pablo,Aguilera,59,M,Estación Central,Cardiología,2025-06-13,Comunicación interauricular,10,2500000,Dr. Silva,Alta médica
+235,Mónica,Romero,35,F,Maipu,Medicina Interna,2025-06-15,Síndrome de Behçet,8,1450000,Dr. Rodríguez,Alta médica
+236,Carlos,Donoso,71,M,Cerrillos,Oncología,2025-06-17,Cáncer de vejiga,16,4800000,Dr. Mendoza,Alta médica
+237,Gloria,León,29,F,Pedro Aguirre Cerda,Neurología,2025-06-19,Neuralgia del trigémino,4,620000,Dr. Torres,Alta médica
+238,Fernando,Santander,54,M,Lo Espejo,Medicina Interna,2025-06-21,Granulomatosis de Wegener,11,2650000,Dr. Rodríguez,Alta médica
+239,Patricia,Vera,41,F,San Joaquín,Traumatología,2025-06-23,Síndrome del túnel tarsiano,5,780000,Dr. Vargas,Alta médica
+240,Ricardo,Cáceres,66,M,La Cisterna,Urología,2025-06-25,Tumor de Wilms,12,3200000,Dr. Aguirre,Alta médica
+241,Andrea,Escobar,32,F,San Ramón,Ginecología,2025-06-27,Síndrome de Asherman,6,850000,Dra. Morales,Alta médica
+242,Mario,Maldonado,48,M,La Granja,Gastroenterología,2025-06-29,Síndrome de Zollinger-Ellison,9,1650000,Dr. Castro,Alta médica
+243,Carmen,Sandoval,37,F,El Bosque,Medicina Interna,2025-07-01,Poliarteritis nodosa,13,3200000,Dr. Rodríguez,Alta médica
+244,Diego,Varela,55,M,La Pintana,Cardiología,2025-07-03,Síndrome de Marfan,8,1850000,Dr. Silva,Alta médica
+245,Francisca,Ibarra,43,F,Puente Alto,Dermatología,2025-07-05,Mastocitosis,7,1350000,Dra. Rojas,Alta médica
+246,Gonzalo,Salinas,62,M,Pirque,Neurología,2025-07-07,Ataxia cerebelosa,15,3800000,Dr. Torres,Alta médica
+247,Verónica,Cornejo,28,F,San José de Maipo,Medicina Interna,2025-07-09,Síndrome de Sjögren,5,720000,Dr. Rodríguez,Alta médica
+248,Carlos,Gallegos,46,M,Buin,Traumatología,2025-07-11,Fractura expuesta múltiple,17,4500000,Dr. Vargas,Alta médica
+249,Patricia,Aravena,53,F,Paine,Oncología,2025-07-13,Tumor neuroendocrino,14,4200000,Dr. Mendoza,Alta médica
+250,Eduardo,Farías,39,M,Melipilla,Medicina Interna,2025-07-15,Enfermedad de Addison,6,950000,Dr. Rodríguez,Alta médica
+251,Gloria,Urrutia,48,F,Talagante,Cardiología,2025-07-17,Síndrome de Eisenmenger,12,3500000,Dr. Silva,Fallecido
+252,Mario,Loyola,64,M,Peñaflor,Urología,2025-07-19,Carcinoma de células renales,10,2500000,Dr. Aguirre,Alta médica
+253,Carmen,Zúñiga,31,F,Isla de Maipo,Ginecología,2025-07-21,Síndrome de Mayer-Rokitansky,4,680000,Dra. Morales,Alta médica
+254,Fernando,Molina,57,M,El Monte,Neurología,2025-07-23,Leucodistrofia,16,4800000,Dr. Torres,Fallecido
+255,Daniela,Godoy,44,F,Padre Hurtado,Medicina Interna,2025-07-25,Crioglobulinemia,8,1450000,Dr. Rodríguez,Alta médica
+256,Pablo,Henriquez,71,M,Curacaví,Gastroenterología,2025-07-27,Adenocarcinoma gástrico,15,4500000,Dr. Castro,Fallecido
+257,Andrea,Briceño,34,F,María Pinto,Traumatología,2025-07-29,Condromalacia rotuliana,7,1080000,Dr. Vargas,Alta médica
+258,Carlos,Pizarro,52,M,Alhué,Medicina Interna,2025-07-31,Hemocromatosis,9,1650000,Dr. Rodríguez,Alta médica
+259,Gloria,Garrido,41,F,San Pedro,Dermatología,2025-08-02,Liquen plano,3,450000,Dra. Rojas,Alta médica
+260,Mario,Riquelme,68,M,Calera de Tango,Cardiología,2025-08-04,Transposición grandes vasos,18,5800000,Dr. Silva,Alta médica
+261,Patricia,Núñez,36,F,Santiago,Medicina Interna,2025-08-06,Síndrome de Evans,11,2650000,Dr. Rodríguez,Alta médica
+262,Ricardo,Paredes,49,M,Providencia,Oncología,2025-08-08,Mesotelioma pleural,19,5500000,Dr. Mendoza,Fallecido
+263,Carmen,Sepúlveda,27,F,Las Condes,Neurología,2025-08-10,Síndrome de Rett,13,3200000,Dr. Torres,Alta médica
+264,Eduardo,Villalobos,55,M,Ñuñoa,Medicina Interna,2025-08-12,Panarteritis nodosa,10,2200000,Dr. Rodríguez,Alta médica
+265,Mónica,Acevedo,42,F,La Reina,Traumatología,2025-08-14,Síndrome de Sudeck,8,1450000,Dr. Vargas,Alta médica
+266,Fernando,Leiva,63,M,Vitacura,Urología,2025-08-16,Síndrome de Goodpasture,12,3200000,Dr. Aguirre,Alta médica
+267,Daniela,Cisternas,33,F,Macul,Ginecología,2025-08-18,Síndrome de hiperestimulación,5,750000,Dra. Morales,Alta médica
+268,Pablo,Araya,51,M,San Miguel,Gastroenterología,2025-08-20,Colangitis esclerosante,14,3800000,Dr. Castro,Alta médica
+269,Andrea,Marchant,38,F,La Florida,Medicina Interna,2025-08-22,Síndrome de anticuerpos antifosfolípidos,7,1180000,Dr. Rodríguez,Alta médica
+270,Carlos,Ulloa,59,M,Peñalolén,Cardiología,2025-08-24,Síndrome del corazón roto,6,980000,Dr. Silva,Alta médica
+271,Gloria,Espejo,45,F,Lo Barnechea,Dermatología,2025-08-26,Síndrome de Sweet,4,620000,Dra. Rojas,Alta médica
+272,Mario,Benítez,67,M,Independencia,Neurología,2025-08-28,Degeneración corticobasal,17,4500000,Dr. Torres,Fallecido
+273,Patricia,Lagos,32,F,Renca,Medicina Interna,2025-08-30,Síndrome de Churg-Strauss,9,1650000,Dr. Rodríguez,Alta médica
+274,Ricardo,Pereira,54,M,Cerro Navia,Traumatología,2025-09-01,Pseudoartrosis,11,2650000,Dr. Vargas,Alta médica
+275,Carmen,Fuentes,41,F,Quilicura,Oncología,2025-09-03,Tumor carcinoide,16,4800000,Dr. Mendoza,Alta médica
+276,Eduardo,Cortez,66,M,Huechuraba,Medicina Interna,2025-09-05,Síndrome de Goodpasture,13,3200000,Dr. Rodríguez,Fallecido
+277,Mónica,Vásquez,29,F,Conchalí,Urología,2025-09-07,Síndrome de Alport,8,1450000,Dr. Aguirre,Alta médica
+278,Fernando,Salazar,47,M,Recoleta,Gastroenterología,2025-09-09,Hepatitis autoinmune,10,2200000,Dr. Castro,Alta médica
+279,Daniela,Torres,35,F,Estación Central,Cardiología,2025-09-11,Síndrome de QT largo,7,1350000,Dr. Silva,Alta médica
+280,Pablo,Valenzuela,58,M,Maipu,Neurología,2025-09-13,Atrofia multisistémica,15,3800000,Dr. Torres,Fallecido
